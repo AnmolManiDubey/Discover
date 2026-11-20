@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "name": "You",
+    "age": 22,
+    "photo": "/profiles/1.svg",
+    "bio": "Coffee, long walks, and surprisingly bad puns.",
+    "city": "Delhi",
+    "college": "DU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aarav",
+    "age": 23,
+    "photo": "/profiles/2.svg",
+    "bio": "Weekend explorer and weekday bookworm.",
+    "city": "Mumbai",
+    "college": "IIT Delhi",
+    "interests": [
+      "Hiking",
+      "Fitness",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ananya",
+    "age": 24,
+    "photo": "/profiles/3.svg",
+    "bio": "Always looking for my next favorite playlist.",
+    "city": "Bengaluru",
+    "college": "NSUT",
+    "interests": [
+      "Movies",
+      "Food",
+      "Coffee"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kabir",
+    "age": 25,
+    "photo": "/profiles/4.svg",
+    "bio": "Films, food, and conversations that last for hours.",
+    "city": "Pune",
+    "college": "DTU",
+    "interests": [
+      "Dancing",
+      "Travel",
+      "Cooking"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Meera",
+    "age": 26,
+    "photo": "/profiles/5.svg",
+    "bio": "I will definitely pet your dog before greeting you.",
+    "city": "Jaipur",
+    "college": "BITS Pilani",
+    "interests": [
+      "Music",
+      "Reading",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vihaan",
+    "age": 27,
+    "photo": "/profiles/6.svg",
+    "bio": "Architecture, art, and a lot of curiosity.",
+    "city": "Hyderabad",
+    "college": "IPU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ishita",
+    "age": 28,
+    "photo": "/profiles/7.svg",
+    "bio": "Learning new recipes with mixed results.",
+    "city": "Chandigarh",
+    "college": "IISc",
+    "interests": [
+      "Hiking",
+      "Fitness",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Rohan",
+    "age": 21,
+    "photo": "/profiles/8.svg",
+    "bio": "Looking for someone to share museum visits with.",
+    "city": "Noida",
+    "college": "Ashoka University",
+    "interests": [
+      "Movies",
+      "Food",
+      "Coffee"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sanya",
+    "age": 22,
+    "photo": "/profiles/9.svg",
+    "bio": "A good sense of humor goes a long way.",
+    "city": "Gurugram",
+    "college": "NMIMS",
+    "interests": [
+      "Dancing",
+      "Travel",
+      "Cooking"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Aditya",
+    "age": 23,
+    "photo": "/profiles/10.svg",
+    "bio": "Travel stories and spontaneous plans welcome.",
+    "city": "Kolkata",
+    "college": "Christ University",
+    "interests": [
+      "Music",
+      "Reading",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Aditi",
+    "age": 24,
+    "photo": "/profiles/11.svg",
+    "bio": "Coffee, long walks, and surprisingly bad puns.",
+    "city": "Delhi",
+    "college": "DU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dev",
+    "age": 25,
+    "photo": "/profiles/12.svg",
+    "bio": "Weekend explorer and weekday bookworm.",
+    "city": "Mumbai",
+    "college": "IIT Delhi",
+    "interests": [
+      "Hiking",
+      "Fitness",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Naina",
+    "age": 26,
+    "photo": "/profiles/13.svg",
+    "bio": "Always looking for my next favorite playlist.",
+    "city": "Bengaluru",
+    "college": "NSUT",
+    "interests": [
+      "Movies",
+      "Food",
+      "Coffee"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Reyansh",
+    "age": 27,
+    "photo": "/profiles/14.svg",
+    "bio": "Films, food, and conversations that last for hours.",
+    "city": "Pune",
+    "college": "DTU",
+    "interests": [
+      "Dancing",
+      "Travel",
+      "Cooking"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Riya",
+    "age": 28,
+    "photo": "/profiles/15.svg",
+    "bio": "I will definitely pet your dog before greeting you.",
+    "city": "Jaipur",
+    "college": "BITS Pilani",
+    "interests": [
+      "Music",
+      "Reading",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Arjun",
+    "age": 21,
+    "photo": "/profiles/16.svg",
+    "bio": "Architecture, art, and a lot of curiosity.",
+    "city": "Hyderabad",
+    "college": "IPU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Tara",
+    "age": 22,
+    "photo": "/profiles/17.svg",
+    "bio": "Learning new recipes with mixed results.",
+    "city": "Chandigarh",
+    "college": "IISc",
+    "interests": [
+      "Hiking",
+      "Fitness",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Krish",
+    "age": 23,
+    "photo": "/profiles/18.svg",
+    "bio": "Looking for someone to share museum visits with.",
+    "city": "Noida",
+    "college": "Ashoka University",
+    "interests": [
+      "Movies",
+      "Food",
+      "Coffee"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sara",
+    "age": 24,
+    "photo": "/profiles/19.svg",
+    "bio": "A good sense of humor goes a long way.",
+    "city": "Gurugram",
+    "college": "NMIMS",
+    "interests": [
+      "Dancing",
+      "Travel",
+      "Cooking"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ishan",
+    "age": 25,
+    "photo": "/profiles/20.svg",
+    "bio": "Travel stories and spontaneous plans welcome.",
+    "city": "Kolkata",
+    "college": "Christ University",
+    "interests": [
+      "Music",
+      "Reading",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Navya",
+    "age": 26,
+    "photo": "/profiles/21.svg",
+    "bio": "Coffee, long walks, and surprisingly bad puns.",
+    "city": "Delhi",
+    "college": "DU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Yash",
+    "age": 27,
+    "photo": "/profiles/22.svg",
+    "bio": "Weekend explorer and weekday bookworm.",
+    "city": "Mumbai",
+    "college": "IIT Delhi",
+    "interests": [
+      "Hiking",
+      "Fitness",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Avni",
+    "age": 28,
+    "photo": "/profiles/23.svg",
+    "bio": "Always looking for my next favorite playlist.",
+    "city": "Bengaluru",
+    "college": "NSUT",
+    "interests": [
+      "Movies",
+      "Food",
+      "Coffee"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Neil",
+    "age": 21,
+    "photo": "/profiles/24.svg",
+    "bio": "Films, food, and conversations that last for hours.",
+    "city": "Pune",
+    "college": "DTU",
+    "interests": [
+      "Dancing",
+      "Travel",
+      "Cooking"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Diya",
+    "age": 22,
+    "photo": "/profiles/25.svg",
+    "bio": "I will definitely pet your dog before greeting you.",
+    "city": "Jaipur",
+    "college": "BITS Pilani",
+    "interests": [
+      "Music",
+      "Reading",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Karan",
+    "age": 23,
+    "photo": "/profiles/26.svg",
+    "bio": "Architecture, art, and a lot of curiosity.",
+    "city": "Hyderabad",
+    "college": "IPU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Zoya",
+    "age": 24,
+    "photo": "/profiles/27.svg",
+    "bio": "Learning new recipes with mixed results.",
+    "city": "Chandigarh",
+    "college": "IISc",
+    "interests": [
+      "Hiking",
+      "Fitness",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Aryan",
+    "age": 25,
+    "photo": "/profiles/28.svg",
+    "bio": "Looking for someone to share museum visits with.",
+    "city": "Noida",
+    "college": "Ashoka University",
+    "interests": [
+      "Movies",
+      "Food",
+      "Coffee"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Maya",
+    "age": 26,
+    "photo": "/profiles/29.svg",
+    "bio": "A good sense of humor goes a long way.",
+    "city": "Gurugram",
+    "college": "NMIMS",
+    "interests": [
+      "Dancing",
+      "Travel",
+      "Cooking"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Samar",
+    "age": 27,
+    "photo": "/profiles/30.svg",
+    "bio": "Travel stories and spontaneous plans welcome.",
+    "city": "Kolkata",
+    "college": "Christ University",
+    "interests": [
+      "Music",
+      "Reading",
+      "Gaming"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Kiara",
+    "age": 28,
+    "photo": "/profiles/31.svg",
+    "bio": "Coffee, long walks, and surprisingly bad puns.",
+    "city": "Delhi",
+    "college": "DU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Tech"
+    ]
+  }
+]

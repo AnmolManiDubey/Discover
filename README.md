@@ -82,9 +82,6 @@ Schema: `users`, `interests`, `user_interests`, `swipes`, `matches`. The matchin
 
 This is a **single-user demo**, as explicitly permitted by the assignment. It has no production authentication or authorization and must not be deployed as a real multi-user dating service without those controls.
 
-## Deployment
-
-A hosted deployment is optional for local evaluation but helpful for reviewers. SQLite requires a **persistent writable disk/volume**. Do not deploy this build to a stateless/serverless host with an ephemeral SQLite file and assume data will persist. Configure the database path to the persistent disk, apply the schema, and seed exactly once. See `.env.example`.
 
 ## Submission
 
